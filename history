@@ -11,3 +11,7 @@ git submodule add https://github.com/ProgrammerZamanNow/belajar-rust-dasar.git i
 git submodule add https://github.com/ProgrammerZamanNow/belajar-golang-rabbitmq.git info/belajar-golang-rabbitmq
 
 git submodule add https://github.com/ssbostan/jenkins-tutorial.git info/jenkins-tutorial
+
+git submodule add https://github.com/bellshade/SQL.git info/bellshade-sql
+
+git submodule add https://github.com/bellshade/Javascript.git info/Javascript

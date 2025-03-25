@@ -28,3 +28,9 @@
 [submodule "info/jenkins-tutorial"]
 	path = info/jenkins-tutorial
 	url = https://github.com/ssbostan/jenkins-tutorial.git
+[submodule "info/bellshade-sql"]
+	path = info/bellshade-sql
+	url = https://github.com/bellshade/SQL.git
+[submodule "info/Javascript"]
+	path = info/Javascript
+	url = https://github.com/bellshade/Javascript.git
