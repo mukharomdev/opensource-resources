@@ -4,3 +4,15 @@
 [submodule "design-pattern/golang-design-patterns"]
 	path = design-pattern/golang-design-patterns
 	url = https://github.com/ismanf/golang-design-patterns.git
+[submodule "tutorial/fullstack-nextjs-app-template"]
+	path = tutorial/fullstack-nextjs-app-template
+	url = https://github.com/xizon/fullstack-nextjs-app-template.git
+[submodule "algoritma-dan-struktur-data/gods"]
+	path = algoritma-dan-struktur-data/gods
+	url = https://github.com/emirpasic/gods.git
+[submodule "info/awesome-erlang"]
+	path = info/awesome-erlang
+	url = https://github.com/erlang-punch/awesome-erlang.git
+[submodule "algoritma-dan-struktur-data/go-dsa"]
+	path = algoritma-dan-struktur-data/go-dsa
+	url = https://github.com/spring1843/go-dsa.git
