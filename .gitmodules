@@ -1,0 +1,6 @@
+[submodule "design-pattern/*"]
+	path = design-pattern/*
+	url = https://github.com/ismanf/golang-design-patterns.git
+[submodule "design-pattern/golang-design-patterns"]
+	path = design-pattern/golang-design-patterns
+	url = https://github.com/ismanf/golang-design-patterns.git
