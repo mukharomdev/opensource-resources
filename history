@@ -15,3 +15,8 @@ git submodule add https://github.com/ssbostan/jenkins-tutorial.git info/jenkins-
 git submodule add https://github.com/bellshade/SQL.git info/bellshade-sql
 
 git submodule add https://github.com/bellshade/Javascript.git info/Javascript
+git submodule add https://github.com/ProgrammerZamanNow/belajar-golang-dependency-injection.git tutorial/belajar-golang-dependency-injection
+
+git submodule add https://github.com/lutfiandri/go-unit-test.git tutorial/go-unit-test
+
+git submodule add  https://github.com/2yuri/repository-pattern-go.git tutorial/repository-pattern-go

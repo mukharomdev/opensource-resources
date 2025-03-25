@@ -34,3 +34,12 @@
 [submodule "info/Javascript"]
 	path = info/Javascript
 	url = https://github.com/bellshade/Javascript.git
+[submodule "tutorial/belajar-golang-dependency-injection"]
+	path = tutorial/belajar-golang-dependency-injection
+	url = https://github.com/ProgrammerZamanNow/belajar-golang-dependency-injection.git
+[submodule "tutorial/go-unit-test"]
+	path = tutorial/go-unit-test
+	url = https://github.com/lutfiandri/go-unit-test.git
+[submodule "tutorial/repository-pattern-go"]
+	path = tutorial/repository-pattern-go
+	url = https://github.com/2yuri/repository-pattern-go.git
