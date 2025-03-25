@@ -16,3 +16,15 @@
 [submodule "algoritma-dan-struktur-data/go-dsa"]
 	path = algoritma-dan-struktur-data/go-dsa
 	url = https://github.com/spring1843/go-dsa.git
+[submodule "info/theBeamBook"]
+	path = info/theBeamBook
+	url = https://github.com/happi/theBeamBook.git
+[submodule "info/belajar-rust-dasar"]
+	path = info/belajar-rust-dasar
+	url = https://github.com/ProgrammerZamanNow/belajar-rust-dasar.git
+[submodule "info/belajar-golang-rabbitmq"]
+	path = info/belajar-golang-rabbitmq
+	url = https://github.com/ProgrammerZamanNow/belajar-golang-rabbitmq.git
+[submodule "info/jenkins-tutorial"]
+	path = info/jenkins-tutorial
+	url = https://github.com/ssbostan/jenkins-tutorial.git

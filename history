@@ -1,0 +1,13 @@
+#git submodule add https://github.com/xizon/fullstack-nextjs-app-template.git tutorial/fullstack-nextjs-app-template
+#git submodule add https://github.com/emirpasic/gods.git algoritma-dan-struktur-data/gods
+
+git submodule add https://github.com/erlang-punch/awesome-erlang.git info/awesome-erlang
+git submodule add  https://github.com/spring1843/go-dsa.git algoritma-dan-struktur-data/go-dsa
+
+git submodule add https://github.com/happi/theBeamBook.git info/theBeamBook
+
+git submodule add https://github.com/ProgrammerZamanNow/belajar-rust-dasar.git info/belajar-rust-dasar
+
+git submodule add https://github.com/ProgrammerZamanNow/belajar-golang-rabbitmq.git info/belajar-golang-rabbitmq
+
+git submodule add https://github.com/ssbostan/jenkins-tutorial.git info/jenkins-tutorial
