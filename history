@@ -20,3 +20,5 @@ git submodule add https://github.com/ProgrammerZamanNow/belajar-golang-dependenc
 git submodule add https://github.com/lutfiandri/go-unit-test.git tutorial/go-unit-test
 
 git submodule add  https://github.com/2yuri/repository-pattern-go.git tutorial/repository-pattern-go
+
+git submodule add https://github.com/0xAX/erlang-bookmarks.git info/erlang-bookmarks

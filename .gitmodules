@@ -43,3 +43,6 @@
 [submodule "tutorial/repository-pattern-go"]
 	path = tutorial/repository-pattern-go
 	url = https://github.com/2yuri/repository-pattern-go.git
+[submodule "info/erlang-bookmarks"]
+	path = info/erlang-bookmarks
+	url = https://github.com/0xAX/erlang-bookmarks.git
